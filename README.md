@@ -8,6 +8,6 @@
 * **[схема (граф) остановок транспорта и поиск кратчайшего маршрута](https://github.com/andreipit/ds_projects/blob/master/9_graph_friends_movies_metro/2_metrotram.ipynb)***;*
 * **[визуализация "сравнение религий Волгограда и США"](https://www.kaggle.com/andrewpt/comparison-of-the-religions-of-russia-and-the-usa)***;*
 * **[распределение текстовых файлов по папкам, в зависимости от смысла текста](https://github.com/andreipit/ds_projects/blob/master/8_texts_similarity_and_topic/kernel/4_put_documents_to_folders.ipynb)***;*
-* **[умная кормушка](https://github.com/andreipit/ds_projects/blob/master/11_bird_feeder/2_birds_detector.ipynb)** - *видеокамера направляется в окно и, при обнаружении движущегося объекта, отсылает его фото на email.*
+* **[датчик движения](https://github.com/andreipit/ds_projects/blob/master/11_bird_feeder/2_birds_detector.ipynb)** - *видеокамера направляется в окно и, при обнаружении движущегося объекта, отсылает его фото на email.*
 
 
