@@ -1,0 +1,12 @@
+fruit_label	fruit_name	mass	width	height	color_score
+4	lemon	100	0	0	0
+4	lemon	2	0	0	0
+4	lemon	3	0	0	0
+4	lemon	4	0	0	0
+4	lemon	5	0	0	0
+4	lemon	6	0	0	0
+4	lemon	7	0	0	0
+4	lemon	8	0	0	0
+4	lemon	1	0	0	0
+4	lemon	2	0	0	0
+4	lemon	3	0	0	0
